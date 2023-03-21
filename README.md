@@ -3,12 +3,6 @@
 - 🌱 I’m currently learning JavaScript as my frontend(Vanilla JS & React) & backend(Node.js & Express.js) language.
 - 💞️ I’m looking to collaborate on open source projects on JavaScript and web dev.
 - 📫 How to reach me linked In- https://www.linkedin.com/in/md-wasim-akhtar-319985191/
-
-<style>
-badge:hover{
-  transform:translate3d(0px, -2px, 0px);
-
-</style>
 <span>
 <img class="badge" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
 <img class="badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
