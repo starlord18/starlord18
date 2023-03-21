@@ -27,7 +27,8 @@
 <img class="badge" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img class="badge" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img class="badge" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-</span></div>                                                                                                                
+</span>
+</div>                                                                                                                
 
 <!---
 starlord18/starlord18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
