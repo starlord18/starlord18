@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @starlord18
 - 👀 I’m interested in Web Development and Data Science.
-- 🌱 I’m currently learning python as my backend language.
-- 💞️ I’m looking to collaborate on open source projects on python and web dev.
+- 🌱 I’m currently learning JavaScript as my frontend(Vanilla JS & React) & backend(Node.js & Express.js) language.
+- 💞️ I’m looking to collaborate on open source projects on JavaScript and web dev.
 - 📫 How to reach me linked In- https://www.linkedin.com/in/md-wasim-akhtar-319985191/
 <span>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
